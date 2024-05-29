@@ -24,6 +24,6 @@ We have developed a Quantum Reinforcement Learning (QRL) model to run on custom 
 * models - Pre-trained models are present in this folder. 
 * plots - Plots generated during training and testing are present in this folder.
 * dataset.ipynb - Notebook for processing the datasets.
-* TCS_QCS_Idea_Summary.pdf is a summarised document where anyone can get idea about problem statement, solution approach, results and future scalability.
+* Idea Summary-Replenishment of retail stores.pdf is a summarised document where anyone can get idea about problem statement, solution approach, results and future scalability.
 
 > We have provided requirements.txt file containing all the required packages to run all the scripts and notebooks above.
